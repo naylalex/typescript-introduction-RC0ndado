@@ -14,6 +14,15 @@
   "author": "Marciano Moreno",
   "license": "ISC",
   "devDependencies": {
-    "typescript": "^4.6.2"
-  }
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naylalex/typescript-introduction-RC0ndado.git"
+  },
+  "bugs": {
+    "url": "https://github.com/naylalex/typescript-introduction-RC0ndado/issues"
+  },
+  "homepage": "https://github.com/naylalex/typescript-introduction-RC0ndado#readme"
 }
